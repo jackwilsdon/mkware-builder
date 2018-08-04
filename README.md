@@ -4,14 +4,16 @@ Make you a middleware pipe (with a builder)!
 
 ## Installation
 
+`mkware-builder` has a dependency on `mkware` (any version).
+
 ```sh
-npm install --save mkware-builder
+npm install --save mkware mkware-builder
 ```
 
 or
 
 ```sh
-yarn add mkware-builder
+yarn add mkware mkware-builder
 ```
 
 ## Usage (normal)
